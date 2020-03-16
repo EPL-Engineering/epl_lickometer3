@@ -1,2 +1,24 @@
-‎VESD01-02V-G-08‎
+EPL LickOmeter3 BOM (Bill Of Matterials)
+
+2020.03.16
+Evan Foss
+
+Quantity		Part Number		Digikey part number		Description
+3			VESD01-02V-G-08		VESD01-02V-G-08CT-ND		Diode
+3			P08080-1 		2104-P08080-1-ND		Piezo Bend
+6										4-40 Screws Nylon 1/4 in long pan head
+3			(see note 1)						BNC Pigtails
+1			(see note 2)						Custom PCB
+1			(see note 3)						left handed plastic lick spout holder
+1			(see note 3)						center plastic lick spout holder
+1			(see note 3)						right handed plastic lick spout holder
+1			(see note 3)						lick-o-meter holder with 1/4" dia mounting fitting
+
+Notes:
+1. I make these by buying BNC cables of 2ft lenght. I just cut them in half
+and strip the ends. 
+2. The pcb design files are provided with the rest of the project files.
+3. These parts are made out of plastic. Drawings are provided in the project
+files.
+
 
