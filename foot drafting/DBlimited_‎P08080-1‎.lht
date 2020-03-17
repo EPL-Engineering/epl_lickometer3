@@ -1667,30 +1667,18 @@ ha:pcb-rnd-board-v6 {
                  li:objects {
                   ha:line.5860 {
                    x1=43.93mm; y1=46.22mm; x2=43.93mm; y2=46.22mm; thickness=0.1mm; clearance=0.0;
-                   ha:flags {
-                    selected=1
-                   }
-
                    ha:attributes {
                      subc-role=origin
                    }
                   }
                   ha:line.5863 {
                    x1=43.93mm; y1=46.22mm; x2=44.93mm; y2=46.22mm; thickness=0.1mm; clearance=0.0;
-                   ha:flags {
-                    selected=1
-                   }
-
                    ha:attributes {
                      subc-role=x
                    }
                   }
                   ha:line.5866 {
                    x1=43.93mm; y1=46.22mm; x2=43.93mm; y2=47.22mm; thickness=0.1mm; clearance=0.0;
-                   ha:flags {
-                    selected=1
-                   }
-
                    ha:attributes {
                      subc-role=y
                    }
