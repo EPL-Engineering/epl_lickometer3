@@ -4,7 +4,7 @@ EPL LickOmeter3 BOM (Bill Of Matterials)
 Evan Foss
 
 Quantity		Part Number		Digikey part number		Description
-3			VESD01-02V-G-08		VESD01-02V-G-08CT-ND		Diode
+3			SMAJ5.0CA-13-F		SMAJ5.0CA-FDICT-ND		Diode
 3			P08080-1 		2104-P08080-1-ND		Piezo Bend
 6										4-40 Screws Nylon 1/4 in long pan head
 3			(see note 1)						BNC Pigtails

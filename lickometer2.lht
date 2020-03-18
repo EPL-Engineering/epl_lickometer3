@@ -2849,25 +2849,29 @@ ha:pcb-rnd-board-v6 {
            ha:attributes {
              subc-role=pnp-origin
            }
-          }
+ ha:flags ={ selected=1
+ };          }
           ha:line.6260 {
            x1=51.600078mm; y1=87.6mm; x2=51.600078mm; y2=87.6mm; thickness=0.1mm; clearance=0.0;
            ha:attributes {
              subc-role=origin
            }
-          }
+ ha:flags ={ selected=1
+ };          }
           ha:line.6263 {
            x1=51.600078mm; y1=87.6mm; x2=52.600078mm; y2=87.6mm; thickness=0.1mm; clearance=0.0;
            ha:attributes {
              subc-role=x
            }
-          }
+ ha:flags ={ selected=1
+ };          }
           ha:line.6266 {
            x1=51.600078mm; y1=87.6mm; x2=51.600078mm; y2=88.6mm; thickness=0.1mm; clearance=0.0;
            ha:attributes {
              subc-role=y
            }
-          }
+ ha:flags ={ selected=1
+ };          }
          }
          ha:type {
           top = 1
