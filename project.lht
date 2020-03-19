@@ -3,11 +3,9 @@ ha:geda-project-v1 {
   ha:overwrite {
    ha:utils {
     ha:gsch2pcb_rnd {
-     sch_basename = lick-art
+     sch_basename = lickometer3-art
      li:schematics {
-      lick.sch
-      powersupply.sch
-      hidden-magic.sch
+      lickometer3.sch
      }
     }
    }

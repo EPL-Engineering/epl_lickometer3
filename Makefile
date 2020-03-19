@@ -14,7 +14,7 @@
 #Project Name
 NAME = lick
 #Project Schematics
-SCHEMATICS = lick.sch powersupply.sch hidden-magic.sch
+SCHEMATICS = lickometer3.sch
 #Project Netlists
 NETLISTS = $(NAME).net
 #Project SPICE Simulation Data
@@ -30,7 +30,7 @@ GRAPHCMDFILE_GNUPLOT = plot.gnu
 #Project Schematics to PCB File
 SCH2PCB = project.lht
 #Project Printed Circuit Boards
-PCBS = lick-art.lht
+PCBS = lickometer3-art.lht
 #Project Gerbers
 GERBERS = $(NAME)-art.fab.gbr $(NAME)-art.plated-drill.cnc $(NAME)-art.frontsilk.gbr $(NAME)-art.front.gbr $(NAME)-art.frontmask.gbr $(NAME)-art.back.gbr  $(NAME)-art.backmask.gbr
 
