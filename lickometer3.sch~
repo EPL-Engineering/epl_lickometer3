@@ -90,7 +90,7 @@ C 50200 47000 1 0 1 zener-1.sym
 T 49800 47600 5 10 0 0 0 6 1
 device=ZENER_DIODE
 T 49800 47700 5 10 1 1 0 3 1
-refdes=Z1
+refdes=Z2
 T 49800 47500 5 10 1 1 0 3 1
 footprint=Diodes_SMA.lht
 }
@@ -99,7 +99,7 @@ C 54700 47000 1 0 1 zener-1.sym
 T 54300 47600 5 10 0 0 0 6 1
 device=ZENER_DIODE
 T 54300 47700 5 10 1 1 0 3 1
-refdes=Z1
+refdes=Z3
 T 54300 47500 5 10 1 1 0 3 1
 footprint=Diodes_SMA.lht
 }
@@ -108,7 +108,7 @@ C 50100 48900 1 0 1 crystal-1.sym
 T 49900 49400 5 10 0 0 0 6 1
 device=CRYSTAL
 T 49800 49400 5 10 1 1 0 3 1
-refdes=XTAL1
+refdes=XTAL2
 T 49900 49600 5 10 0 0 0 6 1
 symversion=0.1
 T 49800 49200 5 10 1 1 0 3 1
@@ -121,7 +121,7 @@ C 54600 48900 1 0 1 crystal-1.sym
 T 54400 49400 5 10 0 0 0 6 1
 device=CRYSTAL
 T 54300 49400 5 10 1 1 0 3 1
-refdes=XTAL1
+refdes=XTAL2
 T 54400 49600 5 10 0 0 0 6 1
 symversion=0.1
 T 54300 49200 5 10 1 1 0 3 1
