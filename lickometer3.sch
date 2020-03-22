@@ -9,7 +9,7 @@ refdes=XTAL1
 T 45400 49600 5 10 0 0 0 6 1
 symversion=0.1
 T 45300 49200 5 10 1 1 0 3 1
-footprint=DBlimited_‎P08080-1‎.subc.lht
+footprint=DBlimited_P08080-1.subc.lht
 T 45600 48900 5 10 0 1 0 6 1
 documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
 }
@@ -46,32 +46,6 @@ N 55500 42500 55500 49000 4
 N 55500 47200 54700 47200 4
 N 43200 42800 53000 42800 4
 N 43200 42500 55500 42500 4
-C 50100 48900 1 0 1 crystal-1.sym
-{
-T 49900 49400 5 10 0 0 0 6 1
-device=CRYSTAL
-T 49800 49400 5 10 1 1 0 3 1
-refdes=XTAL2
-T 49900 49600 5 10 0 0 0 6 1
-symversion=0.1
-T 49800 49200 5 10 1 1 0 3 1
-footprint=DBlimited_‎P08080-1‎.subc.lht
-T 50100 48900 5 10 0 1 0 6 1
-documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
-}
-C 54600 48900 1 0 1 crystal-1.sym
-{
-T 54400 49400 5 10 0 0 0 6 1
-device=CRYSTAL
-T 54300 49400 5 10 1 1 0 3 1
-refdes=XTAL3
-T 54400 49600 5 10 0 0 0 6 1
-symversion=0.1
-T 54300 49200 5 10 1 1 0 3 1
-footprint=DBlimited_‎P08080-1‎.subc.lht
-T 54600 48900 5 10 0 1 0 6 1
-documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
-}
 T 53900 40100 7 8 1 0 0 0 1
 Evan Foss
 T 53800 40400 7 8 1 0 0 0 1
@@ -128,4 +102,43 @@ T 54300 47700 5 10 1 1 0 3 1
 refdes=Z1
 T 54300 47500 5 10 1 1 0 3 1
 footprint=Diodes_SMA.lht
+}
+C 50100 48900 1 0 1 crystal-1.sym
+{
+T 49900 49400 5 10 0 0 0 6 1
+device=CRYSTAL
+T 49800 49400 5 10 1 1 0 3 1
+refdes=XTAL1
+T 49900 49600 5 10 0 0 0 6 1
+symversion=0.1
+T 49800 49200 5 10 1 1 0 3 1
+footprint=DBlimited_P08080-1.subc.lht
+T 50100 48900 5 10 0 1 0 6 1
+documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
+}
+C 54600 48900 1 0 1 crystal-1.sym
+{
+T 54400 49400 5 10 0 0 0 6 1
+device=CRYSTAL
+T 54300 49400 5 10 1 1 0 3 1
+refdes=XTAL1
+T 54400 49600 5 10 0 0 0 6 1
+symversion=0.1
+T 54300 49200 5 10 1 1 0 3 1
+footprint=DBlimited_P08080-1.subc.lht
+T 54600 48900 5 10 0 1 0 6 1
+documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
+}
+C 42700 49800 1 0 1 crystal-1.sym
+{
+T 42500 50300 5 10 0 0 0 6 1
+device=CRYSTAL
+T 42400 50300 5 10 1 1 0 3 1
+refdes=XTAL4
+T 42500 50500 5 10 0 0 0 6 1
+symversion=0.1
+T 42400 50100 5 10 1 1 0 3 1
+footprint=DBlimited_P08080-1.subc.lht
+T 42700 49800 5 10 0 1 0 6 1
+documentation=http://dbunlimitedco.com/images/product_images/2D-Drawings/P08080-1.pdf
 }
