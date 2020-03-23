@@ -466,33 +466,6 @@ ha:pcb-rnd-board-v6 {
       li:thermal {
       }
      }
-     ha:padstack_ref.18426 {
-      proto=3; x=50.85mm; y=77.34mm; rot=0.000000; xmirror=0; smirror=0; clearance=20.0mil;
-      ha:flags {
-       clearline=1
-      }
-
-      li:thermal {
-      }
-     }
-     ha:padstack_ref.18427 {
-      proto=3; x=61.45mm; y=77.34mm; rot=0.000000; xmirror=0; smirror=0; clearance=20.0mil;
-      ha:flags {
-       clearline=1
-      }
-
-      li:thermal {
-      }
-     }
-     ha:padstack_ref.18428 {
-      proto=3; x=72.06mm; y=77.34mm; rot=0.000000; xmirror=0; smirror=0; clearance=20.0mil;
-      ha:flags {
-       clearline=1
-      }
-
-      li:thermal {
-      }
-     }
      ha:subc.1892 {
       ha:attributes {
        refdes=SCREW2
