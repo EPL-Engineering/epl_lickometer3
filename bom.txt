@@ -3,16 +3,17 @@ EPL LickOmeter3 BOM (Bill Of Matterials)
 2020.03.16
 Evan Foss
 
-Quantity		Part Number		Digikey part number		Description
-3			SMAJ5.0CA-13-F		SMAJ5.0CA-FDICT-ND		Diode
-3			P08080-1 		2104-P08080-1-ND		Piezo Bend
-6										4-40 Screws Nylon 1/4 in long pan head
-3			(see note 1)						BNC Pigtails
-1			(see note 2)						Custom PCB
-1			(see note 3)						left handed plastic lick spout holder
-1			(see note 3)						center plastic lick spout holder
-1			(see note 3)						right handed plastic lick spout holder
-1			(see note 3)						lick-o-meter holder with 1/4" dia mounting fitting
+Quantity	Manufacture		Part Number		Digikey part number	Mouser					Description
+3		Diodes Inc.		SMAJ5.0CA-13-F		SMAJ5.0CA-FDICT-ND	621-SMAJ5.0CA-13-F			TVS Diode 5V
+3		DB Unlimited		P08080-1 		2104-P08080-1-ND	497-P08080-1				Piezo Bend
+6		Essentra Components	NSP-4-4-01		RPC4507-ND		144-NSP-4-4-01				4-40 Screws Nylon 1/4 in long pan head
+1.5		Amphenol RF		115101-02-24.00		ACX2316-ND		523-115101-02-24.00			BNC Pigtails 1ft length (see note 1)
+1					(see note 2)										Custom PCB
+1					(see note 3)										left handed plastic lick spout holder
+1					(see note 3)										center plastic lick spout holder
+1					(see note 3)										right handed plastic lick spout holder
+1					(see note 3)										lick-o-meter holder with 1/4" dia mounting fitting
+
 
 Notes:
 1. I make these by buying BNC cables of 2ft lenght. I just cut them in half
@@ -20,5 +21,18 @@ and strip the ends.
 2. The pcb design files are provided with the rest of the project files.
 3. These parts are made out of plastic. Drawings are provided in the project
 files.
+4. It is also required to have an epoxy to hold the piezo bend speakers to the
+pcb. Ether Devcon "5 minute" (Mcmaster-Carr # 66215A23) or the much better but 
+slower curing "2 Ton" (Mcmaster-Carr # 66215A24).
+5. To protect the pcb components from exposure to various threats an
+electrical grade RTV is also advised such as Dow/Corning RTV 748
+(Mcmaster-Carr # 74915A654).
+6. Solder with a rosin core must be used here. "Washable" and "Water Soluble"
+fluxes are not possible because of the use of wire which can not be
+washed/cleaned with out additional corrosion.
+7. Obviously all the above substances must be used in a well ventilated area.
+
+Along with the usual tools it's good to have a 4-40 tap, tweezers 00-SA, and 
+a microscope.
 
 
