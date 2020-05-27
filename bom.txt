@@ -32,7 +32,18 @@ fluxes are not possible because of the use of wire which can not be
 washed/cleaned with out additional corrosion.
 7. Obviously all the above substances must be used in a well ventilated area.
 
-Along with the usual tools it's good to have a 4-40 tap, tweezers 00-SA, and 
-a microscope.
+Along with the usual tools it's good to have a 4-40 tap, drills for the #4
+screws, drill holes for the 18 guage needle, and a hole for the 1/4" dia rod, 
+tweezers 00-SA, and a microscope.
+
+
+For the initial testing I am ordering the following
+
+25995A125	Economy carbon steel tap
+9008K11		Multipurpose 6061 5/8" by 5/8" aluminum
+8576K13		1/4" delrin rod
+3584A232	TiN coated short 43 gauge drill bit
+8947A209	Untoated short 54 gauge drill bit
+2979N26		6.7mm Size, 70mm Overall Length drill bit
 
 
