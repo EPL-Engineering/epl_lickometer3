@@ -3380,19 +3380,22 @@ ha:pcb-rnd-board-v6 {
                 ha:attributes {
                   subc-role=origin
                 }
-               }
+ ha:flags ={ selected=1
+ };               }
                ha:line.18973 {
                 x1=50.85mm; y1=77.34mm; x2=51.85mm; y2=77.34mm; thickness=0.1mm; clearance=0.0;
                 ha:attributes {
                   subc-role=x
                 }
-               }
+ ha:flags ={ selected=1
+ };               }
                ha:line.18976 {
                 x1=50.85mm; y1=77.34mm; x2=50.85mm; y2=78.34mm; thickness=0.1mm; clearance=0.0;
                 ha:attributes {
                   subc-role=y
                 }
-               }
+ ha:flags ={ selected=1
+ };               }
               }
               ha:type {
                top = 1
@@ -5172,6 +5175,46 @@ ha:pcb-rnd-board-v6 {
         ha:flags {
          clearline=1
         }
+       }
+       ha:text.22262 {
+        string=Evan Foss; x=57.85mm; y=73.85mm; scale=100; fid=0;
+        ha:flags {
+         clearline=1
+         onsolder=1
+        }
+        rot = 360.000000
+       }
+       ha:text.22264 {
+        string=LickOmeter3; x=46.75mm; y=73.9mm; scale=100; fid=0;
+        ha:flags {
+         clearline=1
+         onsolder=1
+        }
+        rot = 360.000000
+       }
+       ha:text.22269 {
+        string=20200604; x=68.65mm; y=73.85mm; scale=100; fid=0;
+        ha:flags {
+         clearline=1
+         onsolder=1
+        }
+        rot = 0.000000
+       }
+       ha:text.22260 {
+        string=EPL; x=49.8mm; y=81.5mm; scale=100; fid=0;
+        ha:flags {
+         clearline=1
+         onsolder=1
+        }
+        rot = 360.000000
+       }
+       ha:text.22272 {
+        string={Design:}; x=59.3mm; y=81.5mm; scale=100; fid=0;
+        ha:flags {
+         clearline=1
+         onsolder=1
+        }
+        rot = 0.000000
        }
       }
       color = {#000000}
@@ -7388,9 +7431,9 @@ ha:pcb-rnd-board-v6 {
     grid = 50.00 um
     buffer_number = 0
     ha:view {
-     flip_y = 0
+     flip_y = 1
     }
-    show_solder_side = 0
+    show_solder_side = 1
      rubber_band_keep_midlinedir = true
      rubber_band_mode = true
    }
